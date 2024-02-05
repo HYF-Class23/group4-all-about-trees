@@ -2,49 +2,43 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- We have to work as a team, and also have to always communicate before making
+  any merging in the main branch.
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day       |  How   | The topic of discussion       |
+| --------- | :----: | ----------------------------- |
+| Every day | Online | Issues, PR, GitHub Discussion |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
-
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
-
----
+- Zoom
+- Slack
+- Teams
 
 ## Availability
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day      | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| -------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| _name_   | 10 - 20 | 10 - 20 |  10 - 20  | 10 - 20  | 10 - 20 | 10 - 20  | 10 - 20 |
+| Enny     | anytime |
+| Smita    | 10 - 14 | 10 - 14 |  10 - 14  | 10 - 14  | 10 - 14 | 10 - 14  | 10 - 14 |
+| Hammad   | anytime |
+| Gemechis | anytime |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Enny: _h_;
+- Smita: _6h_;
+- Hammad: _h_;
+- Gemechis: _h_;
 
 ## Asking for Help
-
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
 
 1. _0 -> 30 min_: Try on your own
 2. _30 -> 60 min_: Ask your group for help
