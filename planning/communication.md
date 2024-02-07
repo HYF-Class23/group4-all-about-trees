@@ -25,17 +25,16 @@
 
 | Day      | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | -------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_   | 10 - 20 | 10 - 20 |  10 - 20  | 10 - 20  | 10 - 20 | 10 - 20  | 10 - 20 |
-| Enny     | anytime |
+| Enny     | 11 - 15 | 11 - 15 |  11 - 15  | 11 - 15  | 11 - 15 | 11 - 15  | 11 - 15 |
 | Smita    | 10 - 14 | 10 - 14 |  10 - 14  | 10 - 14  | 10 - 14 | 10 - 14  | 10 - 14 |
-| Hammad   | anytime |
+| Hammad   | 10 - 14 | 10 - 13 |  11 - 13  | 11 - 14  | 10 - 14 | 10 - 16  | 10 - 18 |
 | Gemechis | anytime |
 
 ### How many hours everyone has per day
 
-- Enny: _h_;
+- Enny:_4h_;
 - Smita: _6h_;
-- Hammad: _h_;
+- Hammad:_4h_;
 - Gemechis: _h_;
 
 ## Asking for Help
