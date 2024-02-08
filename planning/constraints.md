@@ -4,6 +4,9 @@ Some boundaries around our project.
 
 ## External
 
+- budget
+-
+
 <!--
   constraints coming from the outside that your team has no control over.
   These may include:
@@ -13,6 +16,8 @@ Some boundaries around our project.
 -->
 
 ## Internal: Involuntary
+
+-
 
 <!--
   constraints that come from within your team, and you have no control over.

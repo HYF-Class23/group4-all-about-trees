@@ -29,14 +29,14 @@
 | Enny     | anytime |
 | Smita    | 10 - 14 | 10 - 14 |  10 - 14  | 10 - 14  | 10 - 14 | 10 - 14  | 10 - 14 |
 | Hammad   | anytime |
-| Gemechis | anytime |
+| Gemechis | 15 - 18 | 15 - 18 |  15 - 18  | 15 - 18  | 15 - 18 | 15 - 18  | 15 - 18 |
 
 ### How many hours everyone has per day
 
 - Enny: _h_;
 - Smita: _6h_;
 - Hammad: _h_;
-- Gemechis: _h_;
+- Gemechis: 3h\_;
 
 ## Asking for Help
 
