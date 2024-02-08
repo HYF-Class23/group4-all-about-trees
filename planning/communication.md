@@ -17,7 +17,6 @@
 
 - Zoom
 - Slack
-- Teams
 
 ## Availability
 
@@ -28,14 +27,14 @@
 | Enny     | 11 - 15 | 11 - 15 |  11 - 15  | 11 - 15  | 11 - 15 | 11 - 15  | 11 - 15 |
 | Smita    | 10 - 14 | 10 - 14 |  10 - 14  | 10 - 14  | 10 - 14 | 10 - 14  | 10 - 14 |
 | Hammad   | 10 - 14 | 10 - 13 |  11 - 13  | 11 - 14  | 10 - 14 | 10 - 16  | 10 - 18 |
-| Gemechis | anytime |
+| Gemechis |  15-18  |  15-18  |   15-18   |  15-18   |  15-18  |  15-18   |  15-18  |
 
 ### How many hours everyone has per day
 
 - Enny:_4h_;
 - Smita: _6h_;
 - Hammad:_4h_;
-- Gemechis: _h_;
+- Gemechis: _3h_;
 
 ## Asking for Help
 
