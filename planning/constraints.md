@@ -14,7 +14,7 @@ Some boundaries around our project.
 
 - Time guideline-2 weeks deadline
 - 1st week planning & documantion
-- 2nd week build the project:website "All about trees".
+- 2nd week build the project:website **"All about trees".**
 
 ## Internal: Voluntary
 
