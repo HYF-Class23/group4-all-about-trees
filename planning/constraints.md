@@ -16,6 +16,7 @@ Some boundaries around our project.
 - 1st week planning & documantion
 - 2nd week build the project:website **"All about trees".**
 
+
 ## Internal: Voluntary
 
 - Our communication via slack & zoom everyday with flexibility of each member
