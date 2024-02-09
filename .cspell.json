@@ -20,7 +20,8 @@
     "Gemechis",
     "Smita",
     "Hammad",
-    "Enny"
+    "Enny",
+    "documantion"
   ],
   "ignorePaths": [
     "node_modules/**",
