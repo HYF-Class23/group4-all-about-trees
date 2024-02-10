@@ -1,6 +1,6 @@
-# Project Name
+# All About Trees
 
-<!-- describe your project -->
+All about trees is a simple web project to emphasize the group collaboration.
 
 ---
 
