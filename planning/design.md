@@ -5,7 +5,10 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+> These designs are the sketch that we took from our project backlog, we are
+> trying to make our website to be as simple as possible yet effective &
+> informative, and considering colorful and attractive design specially for the
+> young souls.
 
 ---
 
