@@ -2,11 +2,17 @@
 
 ## Stop Doing
 
+- Call through Slack to share screen.
+
 ## Continue Doing
+
+- Communication and collaboration.
 
 ## Start Doing
 
 ## Lessons Learned
+
+- We learnt a lot of new things about git and github.
 
 ---
 
